@@ -12,7 +12,7 @@
 
 | 日期 | 报告 | 亮点项目 |
 |------|------|----------|
-| 2026-09-09 | [查看报告](https://zilongguo110.github.io/github-trending-weekly/reports/2026-09-09.html) | i-have-adhd, superpowers, markitdown, hyperframes, diagram-design |
+| 2026-09-09 | [查看报告](https://techscoutx.github.io/github-trending-weekly/reports/2026-09-09.html) | i-have-adhd, superpowers, markitdown, hyperframes, diagram-design |
 
 ## 🔗 关注
 
