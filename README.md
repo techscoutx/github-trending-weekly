@@ -12,6 +12,7 @@
 
 | 日期 | 报告 | 亮点项目 |
 |------|------|----------|
+| 2026-09-10 · daily | [查看日报](https://techscoutx.github.io/github-trending-weekly/reports/daily-2026-09-10.html) | 本次完整榜单 13 个项目，README 中文解读 |
 | 2026-09-09 · daily | [查看日报](https://techscoutx.github.io/github-trending-weekly/reports/daily-2026-09-09.html) | 本次完整榜单 13 个项目，README 中文解读 |
 | 2026-09-09 | [查看报告](https://techscoutx.github.io/github-trending-weekly/reports/2026-09-09.html) | i-have-adhd, superpowers, markitdown, hyperframes, diagram-design |
 
